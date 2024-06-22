@@ -162,6 +162,7 @@ do {
           console.log(chalk.bold.green("You Win "));
           process.exit();
         }
+        
       }
     }
     if (ask.opt == "Drink portion") {

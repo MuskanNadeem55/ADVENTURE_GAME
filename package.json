@@ -1,6 +1,6 @@
 {
-  "name": "@muskan_nadeem/adventure_game",
-  "version": "1.0.0",
+  "name": "@muskan_nadeem_/adventure_game",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "type": "module",
